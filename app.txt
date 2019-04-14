@@ -1,0 +1,4 @@
+2019-04-14 10:04:282 INFO  Hooks:33 - Chrome browser is opened
+2019-04-14 10:04:951 INFO  Hooks:33 - Chrome browser is opened
+2019-04-14 10:04:178 INFO  Hooks:33 - Chrome browser is opened
+2019-04-14 10:04:796 INFO  Hooks:33 - Chrome browser is opened
